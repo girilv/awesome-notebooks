@@ -1,0 +1,138 @@
+,POST_NAME,POST_DETAIL,STATUS,BOARD_ID,BOARD,CREATED,ETA,CATEGORY,TAGS
+0,Scheduler : Adapt to the time zone,I would like to manage the time zone of scheduler,under review,5fe377439f49cd19e0ccc9cc,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+1,Add embed doc,allow all user to see doc from naas launcher,open,5fe20f8eaec9ad63ff081f0c,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+2,naas_drivers.cityfalcon() is down,"Due to the downtime time of city falcon service  ==> ""SITE UNDER MAINTENANCE""",open,5fe1dc8051be0744615fbece,Incident report,2020-11-17T10:58:37.822Z,Not assigned,Not assigned,Not assigned
+3,PDF to MP3,I'm able to convert one text PDF (eBook) to a MP3 audio,in progress,5fe06cf5647d5c54c92a2eb5,Requests,2020-11-17T11:12:51.981Z,Not assigned,File_parsing,Awesome-notebooks
+4,Convert docx to html,I can convert one docx to html,in progress,5fe06c9bccfb9d4462edbc86,Requests,2020-11-17T11:12:51.981Z,Not assigned,File_parsing,Awesome-notebooks
+5,Reset cell number to null,Reset cell number to null when kernel is restarted. Following the methods that google collab and jupyter notebook is following its easier to see the cell value has been set to null whenever the kernel is restarted.,open,5fdb25bf751aa3699b1ed72a,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+6,Email Editor,Allow user to build beatyfull email with https://unlayer.com/,under review,5fda5334751aa3699b17baab,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+7,Edit CSV in the Naas interface,"I would like to be able to edit CSV in Jupyter :)
+This module seems to do it.
+https://github.com/krassowski/jupyterlab-spreadsheet-editor",planned,5fd9d8798fc9e829f6cedd49,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+8,Access to Naas with secured method such as double auth - MFA,"To secure access to users' code and their data in memory, access could be secured with double auth and MFA. 
+The double auth could be a setting for a user who makes the choice or NOT of double auth.",open,5fd7610b7e0d6730004b4186,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+9,Airtable get view,I can not access to my view if it's filter on airtable,open,5fcb481570b59138e6e43e17,Incident report,2020-11-17T10:58:37.822Z,Not assigned,Not assigned,Not assigned
+10,Logs not available in Naas Manager,I can not have access to my scheduler logs detailed to debug it.,open,5fcb47cf6b9eeb390429ae91,Incident report,2020-11-17T10:58:37.822Z,Not assigned,Not assigned,Not assigned
+11,Add Github link in the templates,Would be great to have the link to Github from the templates if users want to submit PRs,open,5fc8a61e1d3a8c187e9dcf26,Requests,2020-11-17T11:12:51.981Z,February 2021,Not assigned,Not assigned
+12,Clear message the _awesome-notebooks folder is read only,add a message in all the notebooks templates that you  need to copy it out of the folder,open,5fc8a5d8b3939e423d1be3dc,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+13,Naas - migrate prod name,"When i change a name of folder or file in dev, i would like to reflect it in prod without deleting and creating again",open,5fc66913b294366ca8585a51,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+14,Email - virtual Mailbox,"Allow any users, to create and fetch virtual mailbox",open,5fc27b1fae5c592101036c78,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+15,naas.notifications: verify email sender,"As a naas user, the only email sender email I can use is the one from my naas account.",under review,5fc13c5a31fab82c99f6fc1d,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+16,naas.notifications: spam prevention,How to prevent spam with notificiations feature?,open,5fc13c06d1107f2c82e146d5,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+17,Extract text and tables from doc,"COMPUTER VISION : I can extract text & tables from a document (pdf, png, img) as excel outputs with naas_drivers",open,5fbfe09b33f6e20a8ec9a8f2,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+18,Score text complexity,TEXT ANALYSIS: Score the complexity of a text (Flesh),open,5fbfe068a60b456071fa838b,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+19,Profile image detour & colors,I can customize the background of my image profile with detour & colors (cashstory core team like). :),open,5fbfdfbf208d8014a86587cc,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+20,Intrinio - Get data from API,https://intrinio.com/,open,5fbfdf31b127843a64e7218e,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+21,Naas - connect to cloud instance from local,Allow us to work in local jupyter and deploy to naas cloud.,open,5fbfc368b127843a64e642c9,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+22,Get contacts list - LinkedIn,,open,5fbfb64eb127843a64e5cce5,Requests,2020-11-17T11:12:51.981Z,Not assigned,CRM,Not assigned
+23,Send emails from LinkedIn,,under review,5fbfb60e33f6e20a8ec851ce,Requests,2020-11-17T11:12:51.981Z,Not assigned,CRM,Not assigned
+24,Scheduler never retried,"If naas crash during a job run, like scheduler the job stay in the state running and is never retry.",open,5fbf73c8a60b456071f60d31,Incident report,2020-11-17T10:58:37.822Z,Not assigned,Not assigned,Not assigned
+25,Cannot delete a job,when i remove scheduler it's still visible in my manager,open,5fbf7365b127843a64e3103b,Incident report,2020-11-17T10:58:37.822Z,Not assigned,Not assigned,Not assigned
+26,Rename Notebook as API in webhook,Since webhook is a well know word it shoud be better to rename it.,open,5fbee3b737e6d71fa99934f6,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+27,Notion.so - Get data from API,"Using https://pypi.org/project/notion/
+We could access : 
+- block
+- space
+- collection
+- collection_view
+- notion_user",under review,5fbed4889d24db11f378e834,Requests,2020-11-17T11:12:51.981Z,Not assigned,Digital Workspace,Not assigned
+28,Google Fit - Get steps from API,"After chat with @felix, we will try to proceed on the build a script as follow : 
+1/ Input : token 
+2/ Get the daily steps data in a python dataframe (cols : DATE, STEPS, USER_TOKEN)
+3/ Show graph of steps over time with plotly 
+4/ Use ML regression to try to predict the steps (ARIMA, SVR model or SARIMA for a try)",open,5fbed2eff5d94150500f0475,Requests,2020-11-17T11:12:51.981Z,Not assigned,Health,Not assigned
+29,Extract table from PDF,"Tried to install Tabula, but it seems a.config is missing in naas to get Java. 
+Here is the notebook asset for example : https://public.naas.ai/amVyZW15LTJFcmF2ZW5lbC00MGNhc2hzdG9yeS0yRWNvbQ==/asset/c08383d0af835adc46cb07c6ca852ba059b22c7f85ad6dc62e28d6418a2f",open,5fbed1af37e6d71fa998eaac,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+30,Update to Jupyter V3,https://jupyterlab.readthedocs.io/en/latest/getting_started/changelog.html,open,5fbbf43218c49855cf23a10c,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+31,Redshift/Athena - SQL query on S3,"Run query in files stored in AWS bucket S3 
+Today, I store my petabytes of data in a bucket S3, I would be able to query those files directly through naas.",open,5fbb874892c51b7f26086470,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+32,Hadoop - Send data to cluster,"Send data to Hadoop cluster (HDFS) from a naas_drivers
+naas.hadoop(cluster_id,...)",open,5fbb84b56389943b3ed9ff59,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+33,Get companies-data.com info via API,Get a dataframe for each company I am looking for in : https://rapidapi.com/CompaniesData/api/companies-data1,open,5fbab58230c32458b3683418,Requests,2020-11-17T11:12:51.981Z,Not assigned,Accounting,Not assigned
+34,Read/Write data in DashDash,I would like to read data and write data in https://dashdash.com/,open,5fbab434156fed59ef4ada7f,Requests,2020-11-17T11:12:51.981Z,Not assigned,Spreadsheets,Not assigned
+35,Transform FEC files in Excel financial analysis,I have 2 FEC that I want to transform in a Year over Year analysis in an Excel.,open,5fbab33e30c32458b3682698,Requests,2020-11-17T11:12:51.981Z,Not assigned,Accounting,Not assigned
+36,500 Server Screenshot error,"When I tried to expose an asset. 
+msg:  ""500 Server Error: Internal Server Error for url: http://naas-screenshot:9000/api/render""",in progress,5fb8309e8a68aa23d5a10bc0,Incident report,2020-11-17T10:58:37.822Z,November 2020,Not assigned,Not assigned
+37,Qonto - Get bank statement,"Input : API key
+Output: bank statement dataframe",open,5fb7adaba3527718c3b1eb41,Requests,2020-11-17T11:12:51.981Z,Not assigned,Banking,Not assigned
+38,Plaid - Connect with API,"Plaid is a financial services company based in San Francisco, California. The company builds a data transfer network that powers Fintech and digital finance products. Plaid's product, a technology platform, enables applications to connect with users’ bank accounts.",open,5fb7abbd6fff530e3b63d7d1,Requests,2020-11-17T11:12:51.981Z,Not assigned,Fintech,Not assigned
+39,Revolut - Get bank statement,"Get bank statement from Revolut account. 
+https://www.revolut.com/en-FR/open-api
+https://pypi.org/project/revolut-python/",open,5fb7ab3abc94a47ce9f7c318,Requests,2020-11-17T11:12:51.981Z,Not assigned,Banking,Not assigned
+40,Credit Agricole - Get bank statement,Bank statement connectivity via API or agregator,open,5fb79b6df1499b19221d1c9c,Requests,2020-11-17T11:12:51.981Z,Not assigned,Treasury,Not assigned
+41,ONEUP connectivity,"https://www.oneup.com/fr
+Request : connect bank statments / bank balances
+OneUp uses AI/ML reconciliation module to automate reconciliation. Very efficient and competitive for small businesses!
+
++ 700000 users
+
+Use case: Automatic accounting reconciliation and bank connectivity aggregator / Accounting & Treasury",open,5fb79933c983ff11b985c60f,Requests,2020-11-17T11:12:51.981Z,Not assigned,Accounting,Not assigned
+42,Get my contact list from LinkedIn,I want to get my Linkedin contact list and store it in a google spreadsheet. Is it possible?,open,5fb69a8fa27c5e08f27a7f55,Requests,2020-11-17T11:12:51.981Z,Not assigned,Social Network,Not assigned
+43,Product Hunt - Get upvoters list,I would like to get the list of the upvoters on my product hunt page. Is it possible?,open,5fb3f2cf58bdf804ef4596cb,Requests,2020-11-17T11:12:51.981Z,Not assigned,Social Network,Not assigned
+44,Manager - history is difficult to read,In the manager when i get an error it's difficult to find it with inside the tons of pages,open,5fb3b297468ee37c86f6f4c9,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+45,Manager - Allow remove jobs,"It can be more convenient to allow to remove job from manager, instead of only from file",open,5fb3b2503ae11551c8b4a3de,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+46,Slack send message to slack,Have a simple connector to send data to slack,open,5fb2efb87cda1f35ee1a99ec,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+47,Healthkit - Parse and extract data,Parse and extract data (ex: https://www.ivaylopavlov.com/chart-healthkit-data-jupyter-notebook/#.X7JUX9NKj7E),under review,5fb25494d3dab57ca2a09da2,Requests,2020-11-17T11:12:51.981Z,Not assigned,Health,Awesome-notebooks
+48,Fitbit - work with API,"Make an awesome notebooks star integrating Fitbit. Ex : 
+https://towardsdatascience.com/collect-your-own-fitbit-data-with-python-ff145fa10873",under review,5fb253a5d3dab57ca2a0925c,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+49,Connect to VPN,I'm able to connect to a VPN with a Naas formula.,open,5fad080161f2b53941bc4b1b,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+50,View markdown as HTML,When I read markdown I can see rendering as HTML (web view),planned,5fa9e4b6424de247bc110549,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+51,Expose domain,From a notebook you can expose your asset to a specific domain,planned,5fa9dce25ab8ba2770917aff,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+52,MongoDB - Query data in DB,based on naas_driver,under review,5fa9dc365ab8ba2770917353,Requests,2020-11-17T11:12:51.981Z,Not assigned,Database,Not assigned
+53,World Data - Expose wordwide COVID Map,"Filter buttons: Confirmed, Active cases, Death, Recovered 
+Filter slicer: Time 
+Expose to www.worldsituationroom.com/world-covid-map",in progress,5fa9d9eeb33e9267872986eb,Requests,2020-11-17T11:12:51.981Z,Not assigned,World Data,Awesome-notebooks
+54,NewsAPI - Get news data,with naas_drivers,planned,5fa9d8d85ab8ba2770915ddf,Requests,2020-11-17T11:12:51.981Z,Not assigned,News,Awesome-notebooks
+55,Sendgrid - Send email batch,"Input : 
+- Email list in data frame 
+Output : 
+- Email sent successfully 
+- Emails not sent",under review,5fa9d83db819f3286d4d6fba,Requests,2020-11-17T11:12:51.981Z,Not assigned,Messaging,Not assigned
+56,Canny - Get data from API,"Input: Canny API key 
+Output : 
+POST, STATUS, CATEGORY, TAG, VOTES, GITHUB_ISSUES",in progress,5fa9d7b3b819f3286d4d6cef,Requests,2020-11-17T11:12:51.981Z,December 2020,Not assigned,Not assigned
+57,Teams - Post text and image,Info : https://docs.microsoft.com/en-us/microsoftteams/platform/resources/bot-v3/bot-conversations/bots-conversations,planned,5fa9d71e424de247bc10d79c,Requests,2020-11-17T11:12:51.981Z,Not assigned,Messaging,Not assigned
+58,File parsing - Unzip files,,under review,5fa9d5a85ab8ba2770914b0d,Requests,2020-11-17T11:12:51.981Z,Not assigned,File_parsing,Not assigned
+59,File parsing - Read .json,"Input : json 
+Output : normalized dataframe",planned,5fa9d573c1abd3727f25c852,Requests,2020-11-17T11:12:51.981Z,Not assigned,File_parsing,Not assigned
+60,Oracle - Connect with API,Info : https://datatofish.com/how-to-connect-python-to-an-oracle-database-using-cx_oracle/,under review,5fa9d449424de247bc10c839,Requests,2020-11-17T11:12:51.981Z,Not assigned,Database,Not assigned
+61,Odoo - Connect with API,Info : https://pypi.org/project/odoo-connector/,under review,5fa9d3f9424de247bc10c6ef,Requests,2020-11-17T11:12:51.981Z,Not assigned,ERP,Awesome-notebooks
+62,Slack - Create user,"Input : 
+- Slack API key
+- Email 
+- Full Name
+
+Ouput message : 
+- OK: ""User created""
+- KO: ""Problem with user creation""",under review,5fa9d28ac1abd3727f25aca5,Requests,2020-11-17T11:12:51.981Z,Not assigned,Messaging,Awesome-notebooks
+63,Jamespot - Create user,"Input : Jamespot - API key
+Ouput : 
+- User created
+- Problem with user creation",under review,5fa9d1ff435bd909512aace4,Requests,2020-11-17T11:12:51.981Z,Not assigned,Digital Workspace,Not assigned
+64,Plotly - Create Stock chart,Based on naass_drivers,under review,5fa9d0ae424de247bc10b010,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+65,Plotly - Create Candlestick chart,Based on naas_drivers,in progress,5fa9cf1c9acf1513bf371f9b,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+66,Plotly - Create Bubble chart,Based on naas_drivers,under review,5fa9ce7f7fdb20639df46eff,Requests,2020-11-17T11:12:51.981Z,Not assigned,Dataviz,Not assigned
+67,Zapier - Trigger workflow from webhook,Based on naas_drivers,planned,5fa9ccf7c1abd3727f25882f,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+68,Integromat - Trigger workflow from webhook,Based on naas_drivers,planned,5fa9ccdf5ab8ba2770911a15,Requests,2020-11-17T11:12:51.981Z,Not assigned,Automation,Not assigned
+69,IFTTT - Trigger workflow from webhook,Based on Naas drivers,in progress,5fa9ccc3b819f3286d4d2a95,Requests,2020-11-17T11:12:51.981Z,Not assigned,Automation,Awesome-notebooks
+70,Wave - Get invoices list,Get dataframe with list of invoices Info: https://developer.waveapps.com/hc/en-us,under review,5fa9892989c81a0d2403f31f,Requests,2020-11-17T11:12:51.981Z,Not assigned,Accounting,Not assigned
+71,Quickbooks - Get invoices list,"Get dataframe with list of invoices
+Info : 
+- https://pypi.org/project/python-quickbooks/
+- https://developer.intuit.com/app/developer/qbo/docs/api/accounting/all-entities/invoice",under review,5fa98840c7c07151fbd79e58,Requests,2020-11-17T11:12:51.981Z,Not assigned,Not assigned,Not assigned
+72,Stripe - Get payments list,"Input : 
+Stripe API Key
+Output: 
+Dataframe with list with fields : CUSTOMER, PRODUCT, CREATED_DATE, AMOUNT, BILLING_TYPE, STATUS",planned,5fa95ed4f41738229ebc7a6b,Requests,2020-11-17T11:12:51.981Z,February 2020,CRM,Awesome-notebooks
+73,Pipedrive - Get contact list,"Input : 
+Pipedrive API Key
+Output : 
+Dataframe with contact list : FIRSTNAME, LASTNAME, JOB, COMPANY, PHONE, EMAIL",planned,5fa95ea2ef162d23855038b1,Requests,2020-11-17T11:12:51.981Z,March 2020,CRM,Awesome-notebooks
+74,Hubspot - Get contact list,"Input : 
+Hubspot API Key
+Output : 
+Dataframe with contact list : FIRSTNAME, LASTNAME, JOB, COMPANY, PHONE, EMAIL",in progress,5fa95e83f41738229ebc74e1,Requests,2020-11-17T11:12:51.981Z,December 2020,CRM,Not assigned
+75,Salesforce - Get contact list,"Input : 
+Salesforce API Key
+Output : 
+Dataframe with contact list : FIRSTNAME, LASTNAME, JOB, COMPANY, PHONE, EMAIL",planned,5fa95e61ce3dc8366918b0b5,Requests,2020-11-17T11:12:51.981Z,Not assigned,CRM,Awesome-notebooks
